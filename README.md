@@ -5,3 +5,5 @@ If u would like to edit what comm it uses go to "GTFOCommsHotkey.cs" and find th
 
 .NET is required for this script to work
 
+BE WARNED
+WHEN THIS HAS BEEN ACTIVATED IT WILL NOT JUST WORK INSIDE OF GTFO **IT WILL WORK ON EVERY OTHER PLATFORM**
